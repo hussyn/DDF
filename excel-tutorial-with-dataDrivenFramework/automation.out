@@ -1,0 +1,311 @@
+2018-11-09 01:12:28 INFO  DataSource:80 - loading config.properties..
+2018-11-09 01:12:28 INFO  DataSource:89 - loading config.properties done
+2018-12-01 16:29:04 INFO  DataSource:80 - loading config.properties..
+2018-12-01 16:29:04 INFO  DataSource:89 - loading config.properties done
+2018-12-01 16:44:16 INFO  DataSource:80 - loading config.properties..
+2018-12-01 16:44:16 INFO  DataSource:89 - loading config.properties done
+2018-12-01 17:14:31 INFO  DataSource:80 - loading config.properties..
+2018-12-01 17:14:31 INFO  DataSource:89 - loading config.properties done
+2018-12-01 17:19:09 INFO  DataSource:80 - loading config.properties..
+2018-12-01 17:19:09 INFO  DataSource:89 - loading config.properties done
+2018-12-02 19:21:25 INFO  DataSource:80 - loading config.properties..
+2018-12-02 19:21:25 INFO  DataSource:89 - loading config.properties done
+2018-12-02 19:24:21 INFO  DataSource:80 - loading config.properties..
+2018-12-02 19:24:21 INFO  DataSource:89 - loading config.properties done
+2018-12-02 20:10:37 INFO  DataSource:80 - loading config.properties..
+2018-12-02 20:10:37 INFO  DataSource:89 - loading config.properties done
+2018-12-02 20:15:04 INFO  DataSource:80 - loading config.properties..
+2018-12-02 20:15:04 INFO  DataSource:89 - loading config.properties done
+2018-12-02 20:22:06 INFO  DataSource:82 - loading config.properties..
+2018-12-02 20:22:06 INFO  DataSource:92 - loading config.properties done
+2018-12-02 20:27:28 INFO  DataSource:82 - loading config.properties..
+2018-12-02 20:27:28 INFO  DataSource:92 - loading config.properties done
+2018-12-02 20:37:27 INFO  DataSource:82 - loading config.properties..
+2018-12-02 20:37:27 INFO  DataSource:92 - loading config.properties done
+2018-12-02 20:38:19 INFO  DataSource:82 - loading config.properties..
+2018-12-02 20:38:19 INFO  DataSource:92 - loading config.properties done
+2018-12-02 20:38:39 INFO  DataSource:82 - loading config.properties..
+2018-12-02 20:38:39 INFO  DataSource:92 - loading config.properties done
+2018-12-02 20:40:23 INFO  DataSource:82 - loading config.properties..
+2018-12-02 20:40:23 INFO  DataSource:92 - loading config.properties done
+2018-12-02 20:40:27 INFO  TestBase:147 - http://localhost:8888/index.php?action=Login&module=Users
+2018-12-02 20:41:27 INFO  DataSource:82 - loading config.properties..
+2018-12-02 20:41:27 INFO  DataSource:92 - loading config.properties done
+2018-12-02 20:41:31 INFO  TestBase:147 - http://localhost:8888/index.php?action=Login&module=Users
+2018-12-02 20:42:25 INFO  DataSource:82 - loading config.properties..
+2018-12-02 20:42:25 INFO  DataSource:92 - loading config.properties done
+2018-12-02 20:42:28 INFO  TestBase:147 - http://localhost:8888/index.php?action=Login&module=Users
+2018-12-02 20:42:30 INFO  Login:41 - entering user Name: admin
+2018-12-02 20:42:30 INFO  Login:46 - entering password: password
+2018-12-02 20:42:31 INFO  Login:51 - clicking login button
+2018-12-02 20:42:32 INFO  Home:45 - performing mouse over...
+2018-12-02 20:42:32 INFO  Login:41 - entering user Name: admin
+2018-12-02 20:42:32 INFO  Login:46 - entering password: password
+2018-12-02 20:42:32 INFO  Login:51 - clicking login button
+2018-12-02 20:42:33 INFO  Home:45 - performing mouse over...
+2018-12-02 20:43:50 INFO  DataSource:82 - loading config.properties..
+2018-12-02 20:43:50 INFO  DataSource:92 - loading config.properties done
+2018-12-02 20:43:54 INFO  TestBase:147 - http://localhost:8888/index.php?action=Login&module=Users
+2018-12-02 20:43:55 INFO  Login:41 - entering user Name: admin
+2018-12-02 20:43:56 INFO  Login:46 - entering password: admin
+2018-12-02 20:43:56 INFO  Login:51 - clicking login button
+2018-12-02 20:43:58 INFO  Home:45 - performing mouse over...
+2018-12-02 20:44:01 INFO  Home:54 - clicked on signout...
+2018-12-02 20:44:01 INFO  Login:41 - entering user Name: admin
+2018-12-02 20:44:02 INFO  Login:46 - entering password: admin
+2018-12-02 20:44:02 INFO  Login:51 - clicking login button
+2018-12-02 20:44:04 INFO  Home:45 - performing mouse over...
+2018-12-02 20:44:07 INFO  Home:54 - clicked on signout...
+2018-12-02 20:44:33 INFO  DataSource:82 - loading config.properties..
+2018-12-02 20:44:33 INFO  DataSource:92 - loading config.properties done
+2018-12-02 20:44:37 INFO  TestBase:147 - http://localhost:8888/index.php?action=Login&module=Users
+2018-12-02 20:44:39 INFO  Login:41 - entering user Name: admin
+2018-12-02 20:44:39 INFO  Login:46 - entering password: admin
+2018-12-02 20:44:39 INFO  Login:51 - clicking login button
+2018-12-02 20:44:42 INFO  Home:45 - performing mouse over...
+2018-12-02 20:44:45 INFO  Home:54 - clicked on signout...
+2018-12-02 20:44:45 INFO  Login:41 - entering user Name: admin
+2018-12-02 20:44:45 INFO  Login:46 - entering password: admin
+2018-12-02 20:44:45 INFO  Login:51 - clicking login button
+2018-12-02 20:44:47 INFO  Home:45 - performing mouse over...
+2018-12-02 20:44:50 INFO  Home:54 - clicked on signout...
+2018-12-02 20:44:54 INFO  TestBase:147 - http://localhost:8888/index.php?action=Login&module=Users
+2018-12-02 20:44:55 INFO  Login:41 - entering user Name: admin
+2018-12-02 20:44:56 INFO  Login:46 - entering password: password
+2018-12-02 20:44:56 INFO  Login:51 - clicking login button
+2018-12-02 20:44:57 INFO  Home:63 - navigating to leads
+2018-12-02 20:44:57 INFO  Login:41 - entering user Name: admin
+2018-12-02 20:44:57 INFO  Login:46 - entering password: password
+2018-12-02 20:44:57 INFO  Login:51 - clicking login button
+2018-12-02 20:44:59 INFO  Home:63 - navigating to leads
+2018-12-02 20:44:59 INFO  Login:41 - entering user Name: admin
+2018-12-02 20:44:59 INFO  Login:46 - entering password: password
+2018-12-02 20:44:59 INFO  Login:51 - clicking login button
+2018-12-02 20:45:00 INFO  Home:63 - navigating to leads
+2018-12-02 20:56:56 INFO  DataSource:82 - loading config.properties..
+2018-12-02 20:56:56 INFO  DataSource:92 - loading config.properties done
+2018-12-02 20:56:59 INFO  TestBase:147 - http://localhost:8888/index.php?action=Login&module=Users
+2018-12-02 20:57:01 INFO  Login:41 - entering user Name: admin
+2018-12-02 20:57:01 INFO  Login:46 - entering password: admin
+2018-12-02 20:57:01 INFO  Login:51 - clicking login button
+2018-12-02 20:57:04 INFO  Home:45 - performing mouse over...
+2018-12-02 20:57:06 INFO  Home:54 - clicked on signout...
+2018-12-02 20:57:06 INFO  Login:41 - entering user Name: admin
+2018-12-02 20:57:10 INFO  TestBase:147 - http://localhost:8888/index.php?action=Login&module=Users
+2018-12-02 20:57:11 INFO  Login:41 - entering user Name: admin
+2018-12-02 20:57:12 INFO  Login:46 - entering password: password
+2018-12-02 20:57:12 INFO  Login:51 - clicking login button
+2018-12-02 20:57:13 INFO  Home:63 - navigating to leads
+2018-12-02 20:57:13 INFO  Login:41 - entering user Name: admin
+2018-12-02 20:57:13 INFO  Login:46 - entering password: password
+2018-12-02 20:57:13 INFO  Login:51 - clicking login button
+2018-12-02 20:57:14 INFO  Home:63 - navigating to leads
+2018-12-02 20:57:15 INFO  Login:41 - entering user Name: admin
+2018-12-02 20:57:15 INFO  Login:46 - entering password: password
+2018-12-02 20:57:15 INFO  Login:51 - clicking login button
+2018-12-02 20:57:16 INFO  Home:63 - navigating to leads
+2018-12-02 20:57:57 INFO  DataSource:82 - loading config.properties..
+2018-12-02 20:57:57 INFO  DataSource:92 - loading config.properties done
+2018-12-02 20:58:01 INFO  TestBase:147 - http://localhost:8888/index.php?action=Login&module=Users
+2018-12-02 20:58:03 INFO  Login:41 - entering user Name: admin
+2018-12-02 20:58:03 INFO  Login:46 - entering password: password
+2018-12-02 20:58:04 INFO  Login:51 - clicking login button
+2018-12-02 20:58:05 INFO  Home:63 - navigating to leads
+2018-12-02 20:58:05 INFO  Login:41 - entering user Name: admin
+2018-12-02 20:58:05 INFO  Login:46 - entering password: password
+2018-12-02 20:58:05 INFO  Login:51 - clicking login button
+2018-12-02 20:58:06 INFO  Home:63 - navigating to leads
+2018-12-02 20:58:06 INFO  Login:41 - entering user Name: admin
+2018-12-02 20:58:06 INFO  Login:46 - entering password: password
+2018-12-02 20:58:06 INFO  Login:51 - clicking login button
+2018-12-02 20:58:07 INFO  Home:63 - navigating to leads
+2018-12-02 21:02:45 INFO  DataSource:82 - loading config.properties..
+2018-12-02 21:02:45 INFO  DataSource:92 - loading config.properties done
+2018-12-02 21:02:49 INFO  TestBase:147 - http://localhost:8888/index.php?action=Login&module=Users
+2018-12-02 21:02:51 INFO  Login:41 - entering user Name: admin
+2018-12-02 21:02:51 INFO  Login:46 - entering password: password
+2018-12-02 21:02:51 INFO  Login:51 - clicking login button
+2018-12-02 21:02:52 INFO  Home:63 - navigating to leads
+2018-12-02 21:02:52 INFO  Login:41 - entering user Name: admin
+2018-12-02 21:02:52 INFO  Login:46 - entering password: password
+2018-12-02 21:02:52 INFO  Login:51 - clicking login button
+2018-12-02 21:02:53 INFO  Home:63 - navigating to leads
+2018-12-02 21:02:54 INFO  Login:41 - entering user Name: admin
+2018-12-02 21:02:54 INFO  Login:46 - entering password: password
+2018-12-02 21:02:54 INFO  Login:51 - clicking login button
+2018-12-02 21:02:55 INFO  Home:63 - navigating to leads
+2018-12-02 21:05:12 INFO  DataSource:82 - loading config.properties..
+2018-12-02 21:05:12 INFO  DataSource:92 - loading config.properties done
+2018-12-02 21:05:16 INFO  TestBase:147 - http://localhost:8888/index.php?action=Login&module=Users
+2018-12-02 21:05:18 INFO  Login:41 - entering user Name: admin
+2018-12-02 21:05:18 INFO  Login:46 - entering password: admin
+2018-12-02 21:05:18 INFO  Login:51 - clicking login button
+2018-12-02 21:05:20 INFO  Home:63 - navigating to leads
+2018-12-02 21:05:21 INFO  Leads:98 - clicking on leads in Home page
+2018-12-02 21:05:25 INFO  Leads:103 - clicking on create leads button
+2018-12-02 21:05:25 INFO  Leads:108 - selecting first Name type as: salutationtype
+2018-12-02 21:05:27 INFO  Leads:114 - entering first name as : Bhanu Pratap
+2018-12-02 21:05:28 INFO  Leads:119 - entering lastName as: Singh
+2018-12-02 21:05:28 INFO  Leads:124 - entering company Name as: learnByBhanu
+2018-12-02 21:05:28 INFO  Leads:129 - enter designation as: youTube
+2018-12-02 21:05:28 INFO  Leads:134 - selecting lead source as: Employee
+2018-12-02 21:05:29 INFO  Leads:140 - selecting industry as  : Chemicals
+2018-12-02 21:05:29 INFO  Leads:146 - entering annualrevenue as: 100000
+2018-12-02 21:05:29 INFO  Leads:151 - entering noofemployees as : 100
+2018-12-02 21:05:29 INFO  Leads:156 - entering street as: Bihar Muzaffarpur
+2018-12-02 21:05:30 INFO  Leads:161 - entering postalCode as: 560078
+2018-12-02 21:05:30 INFO  Leads:166 - enter country as : India
+2018-12-02 21:05:30 INFO  Leads:171 - enter description as: this is automation
+2018-12-02 21:05:30 INFO  Leads:176 - enter phone number as: 9999999999
+2018-12-02 21:05:30 INFO  Leads:181 - enter mobile number as: 9999999999
+2018-12-02 21:05:30 INFO  Leads:186 - enter email: leanrbybhnau@gmail.com
+2018-12-02 21:05:31 INFO  Leads:191 - selecting leadStatus as: Contact in Future
+2018-12-02 21:05:31 INFO  Leads:201 - clicking on save button
+2018-12-02 21:05:35 INFO  Home:45 - performing mouse over...
+2018-12-02 21:05:37 INFO  Home:54 - clicked on signout...
+2018-12-02 21:05:37 INFO  Login:41 - entering user Name: admin
+2018-12-02 21:05:38 INFO  Login:46 - entering password: admin
+2018-12-02 21:05:38 INFO  Login:51 - clicking login button
+2018-12-02 21:05:40 INFO  Home:63 - navigating to leads
+2018-12-02 21:05:40 INFO  Leads:98 - clicking on leads in Home page
+2018-12-02 21:05:44 INFO  Leads:103 - clicking on create leads button
+2018-12-02 21:05:46 INFO  Leads:108 - selecting first Name type as: salutationtype
+2018-12-02 21:05:47 INFO  Leads:114 - entering first name as : Bhanu Pratap1
+2018-12-02 21:05:47 INFO  Leads:119 - entering lastName as: Singh
+2018-12-02 21:05:47 INFO  Leads:124 - entering company Name as: learnByBhanu
+2018-12-02 21:05:47 INFO  Leads:129 - enter designation as: youTube
+2018-12-02 21:05:47 INFO  Leads:134 - selecting lead source as: Employee
+2018-12-02 21:05:48 INFO  Leads:140 - selecting industry as  : Chemicals
+2018-12-02 21:05:49 INFO  Leads:146 - entering annualrevenue as: 100000
+2018-12-02 21:05:49 INFO  Leads:151 - entering noofemployees as : 100
+2018-12-02 21:05:49 INFO  Leads:156 - entering street as: Bihar Muzaffarpur
+2018-12-02 21:05:49 INFO  Leads:161 - entering postalCode as: 560078
+2018-12-02 21:05:49 INFO  Leads:166 - enter country as : India
+2018-12-02 21:05:49 INFO  Leads:171 - enter description as: this is automation
+2018-12-02 21:05:50 INFO  Leads:176 - enter phone number as: 9999999999
+2018-12-02 21:05:50 INFO  Leads:181 - enter mobile number as: 9999999999
+2018-12-02 21:05:50 INFO  Leads:186 - enter email: leanrbybhnau@gmail.com
+2018-12-02 21:05:50 INFO  Leads:191 - selecting leadStatus as: Contact in Future
+2018-12-02 21:05:51 INFO  Leads:201 - clicking on save button
+2018-12-02 21:05:53 INFO  Home:45 - performing mouse over...
+2018-12-02 21:05:56 INFO  Home:54 - clicked on signout...
+2018-12-02 21:05:56 INFO  Login:41 - entering user Name: admin
+2018-12-02 21:05:56 INFO  Login:46 - entering password: admin
+2018-12-02 21:05:56 INFO  Login:51 - clicking login button
+2018-12-02 21:05:58 INFO  Home:63 - navigating to leads
+2018-12-02 21:05:58 INFO  Leads:98 - clicking on leads in Home page
+2018-12-02 21:07:40 INFO  DataSource:82 - loading config.properties..
+2018-12-02 21:07:40 INFO  DataSource:92 - loading config.properties done
+2018-12-02 21:07:44 INFO  TestBase:147 - http://localhost:8888/index.php?action=Login&module=Users
+2018-12-02 21:07:46 INFO  Login:41 - entering user Name: admin
+2018-12-02 21:07:46 INFO  Login:46 - entering password: admin
+2018-12-02 21:07:46 INFO  Login:51 - clicking login button
+2018-12-02 21:07:48 INFO  Home:45 - performing mouse over...
+2018-12-02 21:07:51 INFO  Home:54 - clicked on signout...
+2018-12-02 21:07:51 INFO  Login:41 - entering user Name: admin
+2018-12-02 21:07:51 INFO  Login:46 - entering password: admin
+2018-12-02 21:07:51 INFO  Login:51 - clicking login button
+2018-12-02 21:07:53 INFO  Home:45 - performing mouse over...
+2018-12-02 21:07:56 INFO  Home:54 - clicked on signout...
+2018-12-02 21:08:00 INFO  TestBase:147 - http://localhost:8888/index.php?action=Login&module=Users
+2018-12-02 21:08:02 INFO  Login:41 - entering user Name: admin
+2018-12-02 21:08:02 INFO  Login:46 - entering password: admin
+2018-12-02 21:08:02 INFO  Login:51 - clicking login button
+2018-12-02 21:08:04 INFO  Home:63 - navigating to leads
+2018-12-02 21:08:05 INFO  Leads:98 - clicking on leads in Home page
+2018-12-02 21:08:09 INFO  Leads:103 - clicking on create leads button
+2018-12-02 21:08:09 INFO  Leads:108 - selecting first Name type as: salutationtype
+2018-12-02 21:08:12 INFO  Leads:114 - entering first name as : Bhanu Pratap
+2018-12-02 21:08:12 INFO  Leads:119 - entering lastName as: Singh
+2018-12-02 21:08:12 INFO  Leads:124 - entering company Name as: learnByBhanu
+2018-12-02 21:08:12 INFO  Leads:129 - enter designation as: youTube
+2018-12-02 21:08:12 INFO  Leads:134 - selecting lead source as: Employee
+2018-12-02 21:08:13 INFO  Leads:140 - selecting industry as  : Chemicals
+2018-12-02 21:08:13 INFO  Leads:146 - entering annualrevenue as: 100000
+2018-12-02 21:08:14 INFO  Leads:151 - entering noofemployees as : 100
+2018-12-02 21:08:14 INFO  Leads:156 - entering street as: Bihar Muzaffarpur
+2018-12-02 21:08:14 INFO  Leads:161 - entering postalCode as: 560078
+2018-12-02 21:08:14 INFO  Leads:166 - enter country as : India
+2018-12-02 21:08:14 INFO  Leads:171 - enter description as: this is automation
+2018-12-02 21:08:14 INFO  Leads:176 - enter phone number as: 9999999999
+2018-12-02 21:08:14 INFO  Leads:181 - enter mobile number as: 9999999999
+2018-12-02 21:08:15 INFO  Leads:186 - enter email: leanrbybhnau@gmail.com
+2018-12-02 21:08:15 INFO  Leads:191 - selecting leadStatus as: Contact in Future
+2018-12-02 21:08:16 INFO  Leads:201 - clicking on save button
+2018-12-02 21:08:18 INFO  Home:45 - performing mouse over...
+2018-12-02 21:08:20 INFO  Home:54 - clicked on signout...
+2018-12-02 21:08:20 INFO  Login:41 - entering user Name: admin
+2018-12-02 21:08:21 INFO  Login:46 - entering password: admin
+2018-12-02 21:08:21 INFO  Login:51 - clicking login button
+2018-12-02 21:08:24 INFO  Home:63 - navigating to leads
+2018-12-02 21:08:24 INFO  Leads:98 - clicking on leads in Home page
+2018-12-02 21:08:29 INFO  Leads:103 - clicking on create leads button
+2018-12-02 21:08:29 INFO  Leads:108 - selecting first Name type as: salutationtype
+2018-12-02 21:08:32 INFO  Leads:114 - entering first name as : Bhanu Pratap1
+2018-12-02 21:08:32 INFO  Leads:119 - entering lastName as: Singh
+2018-12-02 21:08:32 INFO  Leads:124 - entering company Name as: learnByBhanu
+2018-12-02 21:08:32 INFO  Leads:129 - enter designation as: youTube
+2018-12-02 21:08:32 INFO  Leads:134 - selecting lead source as: Employee
+2018-12-02 21:08:33 INFO  Leads:140 - selecting industry as  : Chemicals
+2018-12-02 21:08:34 INFO  Leads:146 - entering annualrevenue as: 100000
+2018-12-02 21:08:34 INFO  Leads:151 - entering noofemployees as : 100
+2018-12-02 21:08:34 INFO  Leads:156 - entering street as: Bihar Muzaffarpur
+2018-12-02 21:08:34 INFO  Leads:161 - entering postalCode as: 560078
+2018-12-02 21:08:34 INFO  Leads:166 - enter country as : India
+2018-12-02 21:08:34 INFO  Leads:171 - enter description as: this is automation
+2018-12-02 21:08:35 INFO  Leads:176 - enter phone number as: 9999999999
+2018-12-02 21:08:35 INFO  Leads:181 - enter mobile number as: 9999999999
+2018-12-02 21:08:35 INFO  Leads:186 - enter email: leanrbybhnau@gmail.com
+2018-12-02 21:08:35 INFO  Leads:191 - selecting leadStatus as: Contact in Future
+2018-12-02 21:08:36 INFO  Leads:201 - clicking on save button
+2018-12-02 21:08:39 INFO  Home:45 - performing mouse over...
+2018-12-02 21:08:41 INFO  Home:54 - clicked on signout...
+2018-12-02 21:08:41 INFO  Login:41 - entering user Name: admin
+2018-12-02 21:08:41 INFO  Login:46 - entering password: admin
+2018-12-02 21:08:41 INFO  Login:51 - clicking login button
+2018-12-02 21:08:44 INFO  Home:63 - navigating to leads
+2018-12-02 21:08:44 INFO  Leads:98 - clicking on leads in Home page
+2018-12-02 21:08:50 INFO  Leads:103 - clicking on create leads button
+2018-12-02 21:08:50 INFO  Leads:108 - selecting first Name type as: salutationtype
+2018-12-02 21:08:53 INFO  Leads:114 - entering first name as : Bhanu Pratap2
+2018-12-02 21:08:53 INFO  Leads:119 - entering lastName as: Singh
+2018-12-02 21:08:53 INFO  Leads:124 - entering company Name as: learnByBhanu
+2018-12-02 21:08:53 INFO  Leads:129 - enter designation as: youTube
+2018-12-02 21:08:54 INFO  Leads:134 - selecting lead source as: Employee
+2018-12-02 21:08:54 INFO  Leads:140 - selecting industry as  : Chemicals
+2018-12-02 21:08:55 INFO  Leads:146 - entering annualrevenue as: 100000
+2018-12-02 21:08:55 INFO  Leads:151 - entering noofemployees as : 100
+2018-12-02 21:08:55 INFO  Leads:156 - entering street as: Bihar Muzaffarpur
+2018-12-02 21:08:55 INFO  Leads:161 - entering postalCode as: 560078
+2018-12-02 21:08:55 INFO  Leads:166 - enter country as : India
+2018-12-02 21:08:55 INFO  Leads:171 - enter description as: this is automation
+2018-12-02 21:08:56 INFO  Leads:176 - enter phone number as: 9999999999
+2018-12-02 21:08:56 INFO  Leads:181 - enter mobile number as: 9999999999
+2018-12-02 21:08:56 INFO  Leads:186 - enter email: leanrbybhnau@gmail.com
+2018-12-02 21:08:56 INFO  Leads:191 - selecting leadStatus as: Contact in Future
+2018-12-02 21:08:57 INFO  Leads:201 - clicking on save button
+2018-12-02 21:09:00 INFO  Home:45 - performing mouse over...
+2018-12-02 21:09:01 INFO  Home:54 - clicked on signout...
+2018-12-02 21:12:41 INFO  DataSource:82 - loading config.properties..
+2018-12-02 21:12:41 INFO  DataSource:92 - loading config.properties done
+2018-12-02 21:12:45 INFO  TestBase:147 - http://localhost:8888/index.php?action=Login&module=Users
+2018-12-02 21:14:38 INFO  DataSource:82 - loading config.properties..
+2018-12-02 21:14:38 INFO  DataSource:92 - loading config.properties done
+2018-12-02 21:14:42 INFO  TestBase:147 - http://localhost:8888/index.php?action=Login&module=Users
+2018-12-02 21:48:17 INFO  DataSource:82 - loading config.properties..
+2018-12-02 21:48:17 INFO  DataSource:92 - loading config.properties done
+2018-12-02 21:48:22 INFO  TestBase:147 - http://localhost:8888/index.php?action=Login&module=Users
+2018-12-02 21:48:24 INFO  Login:41 - entering user Name: admin
+2018-12-02 21:48:24 INFO  Login:46 - entering password: admin
+2018-12-02 21:48:24 INFO  Login:51 - clicking login button
+2018-12-02 21:48:27 INFO  Home:45 - performing mouse over...
+2018-12-02 21:48:30 INFO  Home:54 - clicked on signout...
+2018-12-02 21:48:30 INFO  Login:41 - entering user Name: admin
+2018-12-02 21:48:30 INFO  Login:46 - entering password: admin
+2018-12-02 21:48:30 INFO  Login:51 - clicking login button
+2018-12-02 21:48:32 INFO  Home:45 - performing mouse over...
+2018-12-02 21:48:35 INFO  Home:54 - clicked on signout...
+2018-12-03 10:26:18 INFO  DataSource:82 - loading config.properties..
+2018-12-03 10:26:18 INFO  DataSource:92 - loading config.properties done
+2018-12-03 10:27:51 INFO  DataSource:82 - loading config.properties..
+2018-12-03 10:27:51 INFO  DataSource:92 - loading config.properties done

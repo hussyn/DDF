@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [TestNG]">
+  <test name="TestNG(failed)">
+    <classes>
+      <class name="com.bhanu.testScripts.leads.CreatesLeads">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.bhanu.testScripts.leads.CreatesLeads -->
+      <class name="com.bhanu.testScripts.login.LoginTest">
+        <methods>
+          <include name="loginTest" invocation-numbers="1"/>
+          <include name="launchBrowser"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.bhanu.testScripts.login.LoginTest -->
+    </classes>
+  </test> <!-- TestNG(failed) -->
+  <test name="CreatesLeads(failed)">
+    <classes>
+      <class name="com.bhanu.testScripts.leads.CreatesLeads">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="beforeClass"/>
+          <include name="testCreateLead" invocation-numbers="0 1 2"/>
+        </methods>
+      </class> <!-- com.bhanu.testScripts.leads.CreatesLeads -->
+      <class name="com.bhanu.testScripts.login.LoginTest">
+        <methods>
+          <include name="launchBrowser"/>
+          <include name="beforeClass"/>
+        </methods>
+      </class> <!-- com.bhanu.testScripts.login.LoginTest -->
+    </classes>
+  </test> <!-- CreatesLeads(failed) -->
+</suite> <!-- Failed suite [TestNG] -->
